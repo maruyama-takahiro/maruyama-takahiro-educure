@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+	display: flex;
+	justify-content: center;
+}
+
+main{
+	float: right;
+	color: white;
+	background-color: yellow;
+	width: 200px;
+	height: 150px;
+	margin:0 auto;
+}
+#sub{
+	float: right;
+	color: white;
+	background-color: green;
+	width: 100px;
+	height: 150px;
+}
