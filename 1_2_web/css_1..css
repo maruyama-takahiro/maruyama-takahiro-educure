@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+     background-image:url(images/bg_Argyle.jpg);
+}
+.center{
+	border: double 5px;
+	border-color: red;
+   }
+  p { text-align:center;
+}
+caption{
+	color: red;
+}
+td{
+	border: solid;
+	border-color: red;
+	background-color: bisque;
+	}
+
+div{
+	display: flex;
+}
+
+.text{
+	text-align: left;
+	}

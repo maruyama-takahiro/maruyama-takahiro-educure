@@ -1,0 +1,19 @@
+@charset "UTF-8";
+li{
+	color:white;
+}
+li{
+	float: left;
+	background-color:royalblue;
+	padding: 5px;
+	display: inline;
+	margin:1px
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+li:hover{
+	background-color: deeppink;
+	color: white;
+}

@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+	display: flex;
+	justify-content: center;
+}
+main{
+	float: right;
+	color: white;
+	background-color: yellow;
+	width: 200px;
+	height: 150px;
+	border-color: red;
+	margin:0 auto;
+	border-style: solid;
+	border-color: red;
+	border-width: 20px;
+	border-left:none ;
+}
+#sub{
+	float: right;
+	color: white;
+	background-color: green;
+	width: 100px;
+	height: 150px;
+	border-style: solid;
+	border-color: red;
+	border-width: 20px;
+	border-right:none ;
+}
