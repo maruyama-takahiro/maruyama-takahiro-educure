@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{
-background-image:url(bg_Argyle.jpg);
+background-image:url(images/bg_Argyle.jpg);
 }
 
 form{
@@ -27,5 +27,8 @@ body{
 }
 .label:hover{
 	background-color: grey;
-color: black;
+    color: black;
+}
+textarea{
+	width: 75%;
 }
